@@ -12,7 +12,7 @@ An App for calculating Body Mass Index
   </tr>
   <tr>
     <td><img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/inputPage.png" width=270 height=480></td>
-    <td><img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/resultPage.png" width=270 height=480></td>
+    <td><img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/normalPage.png" width=270 height=480></td>
     <td><img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/Drawer.png" width=270 height=480></td>
     <td><img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/tabulatedResult.png" width=270 height=480></td>
   </tr>
@@ -28,8 +28,11 @@ The Body Mass Index is a measure of body fat using the weight and height of the 
     Heart or blood vessel problems
     Cardiovascular disease
     Musculoskeletal problems
+    
+    <img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/resultPage.png" width=270 height=480>
 
 # Being underweight can result in other health issues like:
     Risk of malnutrition
     Osteoporosis
     Anaemia
+    <img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/underweightPage.png" width=270 height=480>
