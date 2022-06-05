@@ -11,10 +11,10 @@ An App for calculating Body Mass Index
     <td>Tabulated Result Page</td>
   </tr>
   <tr>
-    <td><img src="[https://github.com/jonyoung123/Clima/blob/main/loadingpage.png](https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/inputPage.png)" width=270 height=480></td>
-    <td><img src="[https://github.com/jonyoung123/Clima/blob/main/cityscreen.png](https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/resultPage.png)" width=270 height=480></td>
-    <td><img src="[https://github.com/jonyoung123/Clima/blob/main/Screenshot_1654213491.png](https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/Drawer.png)" width=270 height=480></td>
-    <td><img src="[https://github.com/jonyoung123/Clima/blob/main/Screenshot_1654213491.png](https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/Drawer.png)](https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/tabulatedResult.png)" width=270 height=480></td>
+    <td><img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/inputPage.png" width=270 height=480></td>
+    <td><img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/resultPage.png" width=270 height=480></td>
+    <td><img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/Drawer.png" width=270 height=480></td>
+    <td><img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/tabulatedResult.png" width=270 height=480></td>
   </tr>
  </table>
 
