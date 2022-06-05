@@ -35,4 +35,4 @@ The Body Mass Index is a measure of body fat using the weight and height of the 
     Risk of malnutrition
     Osteoporosis
     Anaemia
-<img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/underweightPage.png" width=270 height=480>
+<img src="https://github.com/jonyoung123/BMI-CALCULATOR/blob/main/underweight.png" width=270 height=480>
